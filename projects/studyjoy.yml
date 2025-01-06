@@ -2,7 +2,7 @@ name: StudyJoy  # required
 tagline: A simple gamified language learning app featuring AI & web3 # optional
 showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-StudyJoy  # required
 sourceCodeUrl: https://github.com/eipiem1/StudyJoy # required
-liveDemoUrl: /demo.site/  # optional
+liveDemoUrl: /study-joy.vercel.app/  # optional
 social: # optional
   x: handle
   github: eipiem1
